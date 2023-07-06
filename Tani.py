@@ -14,7 +14,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from tanu1 import iAmMain
+    from Tanu1 import iAmMain
 
     iAmMain().iAmMenu()
 
